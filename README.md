@@ -3,8 +3,8 @@
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     |  1tial 9.0.2  |
-| Angular          |   19.0.1 |
+| @Angular/CLI     |   19.0.2 |
+| Angular          |   19.0.3 |
 | Angular/Material |   19.0.2 |
 | WebStorm         | 2024.3.0 |
 | VSCode           |   1.95.3 |
