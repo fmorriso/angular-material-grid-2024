@@ -11,9 +11,9 @@
 
 ## Change History
 
-| Date       | Description                                   |
-|:-----------|:----------------------------------------------|
-| 2024-12-09 | Inicreation                              |
+| Date       | Description      |
+|:-----------|:-----------------|
+| 2024-12-09 | Initial creation |
 
 ## Angular/CLI Notes
 
