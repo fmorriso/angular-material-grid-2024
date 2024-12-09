@@ -1,4 +1,6 @@
-# Angular Material Grid
+# Angular Material Grid (2024)
+A (hopefully) simply example of using Angular, Angular Material, CSS Grid and CSS Flexbox to display things like a horizontal navigation bar.
+
 ## Tools Used
 
 | Tool             |  Version |
